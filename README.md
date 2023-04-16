@@ -1,6 +1,7 @@
 # pixel-text
 
-Encodes input data (only text for now) into pixels.
+Encodes/decodes text from/to pixels.
+
 Every pixel is composed of 4 channels:
 
 - red
@@ -9,6 +10,7 @@ Every pixel is composed of 4 channels:
 - alpha
 
 Every channel contains an int from 0 to 255.
+
 Meaning we can easily save 1 char per channel / 4 chars per pixel 😎
 
 ## CLI install
