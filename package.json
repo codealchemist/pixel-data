@@ -1,5 +1,5 @@
 {
-  "name": "pixel-text",
+  "name": "pixel-data",
   "version": "1.0.0",
   "description": "Encodes/decodes text from/to pixels.",
   "main": "read-pixel.js",
